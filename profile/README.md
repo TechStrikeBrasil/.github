@@ -1,5 +1,6 @@
 ## TechStrikeBrasil 🎮 💻 🇧🇷
 
-Criando experiências digitais. Paixão por desenvolver!
+Criando experiências digitais e ajudando negócios a crescer por meio da tecnologia!
+Paixão por desenvolver!
 
 Visite nossa página https://tstrikebrasil.itch.io/
