@@ -3,10 +3,21 @@
 ### 🇧🇷
 Bem-vindo à nossa página do Github. Nós somos um pequeno estúdio Indie de pessoas apaixonadas por desenvolver e criar experiências digitais. Nós também ajudamos negócios a crescer por meio da tecnologia!
 
-Visite nossa vitrine de jogos [AQUI](https://tstrikebrasil.itch.io/)
-
 ### 🇺🇸
 Welcome to our Github page! We are a small Indie studio composed of people who love coding and creating digital experiences. We also help businesses grow using technology.
 
-Visit our virtual game store [HERE](https://tstrikebrasil.itch.io/)
 
+
+## 🎮 Nossos jogos / Our games
+
+<a href="https://tstrikebrasil.itch.io/">
+  <img align="center" src="https://img.shields.io/badge/Itch.IO-ff6160?style=for-the-badge&logo=itchdotio&logoColor=white" />
+</a>
+
+<a href="https://github.com/TechStrikeBrasil">
+  <img align="center" src="https://img.shields.io/badge/Steam-125588?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+
+<a href="https://github.com/TechStrikeBrasil">
+  <img align="center" src="https://img.shields.io/badge/PlayStore-fdfdfd?style=for-the-badge&logo=googleplay&logoColor=black" />
+</a>
