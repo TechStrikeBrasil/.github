@@ -13,7 +13,7 @@ Welcome to our Github page! We are a small Indie studio composed of people who l
 <a href="https://tstrikebrasil.itch.io/">
   <img align="center" src="https://img.shields.io/badge/Itch.IO-ff6160?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="[https://github.com/TechStrikeBrasil](https://www.youtube.com/@techstrikebrasil)">
+<a href="https://www.youtube.com/@techstrikebrasil">
   <img align="center" src="https://img.shields.io/badge/Youtube-fdfdfd?style=for-the-badge&logo=youtube&logoColor=red" />
 </a>
 <a href="https://github.com/TechStrikeBrasil">
