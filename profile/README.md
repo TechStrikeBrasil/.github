@@ -1,15 +1,25 @@
-## Tech Strike Game Studio 🎮 💻 
+# TechStrike Game Studio 🎮💻
 
-### 🇧🇷
-Bem-vindo à nossa página do Github. Nós somos um pequeno estúdio Indie de pessoas apaixonadas por desenvolver e criar experiências digitais. Nós também ajudamos negócios a crescer por meio da tecnologia!
+[![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue?style=for-the-badge)]()
+[![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
-### 🇺🇸
-Welcome to our Github page! We are a small Indie studio composed of people who love coding and creating digital experiences. We also help businesses grow using technology.
+---
 
+🇧🇷 **Bem-vindo a página oficial da TechStrike!**  
+Somos um pequeno estúdio indie brasileiro, apaixonado por criar jogos digitais com sistemas criativos, desafios únicos e experiências imersivas. 
 
+🇺🇸 **Welcome to TechStrike’s official GitHub!**  
+We are a small Brazilian indie game studio focused on building digital games with creative systems, unique challenges, and immersive experiences. We love what we do — and we hope you enjoy our creations.
 
-## 🎮 Nossos jogos / Our games
+---
 
+## 🎮 Nossos Jogos / Our Games
+- [Verdant Valley](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley) – Jogo de fazenda com alma nostálgica de Harverst Moon: Back to Nature *(pré-inscrição)*
+- **HexPG** – RPG tático com mapa em hexágonos e campanha procedural *(em desenvolvimento)*
+
+---
+## 🌐 Conecte-se com a gente / Connect with us
 <a href="https://tstrikebrasil.itch.io/">
   <img align="center" src="https://img.shields.io/badge/Itch.IO-ff6160?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
