@@ -26,7 +26,7 @@ We are a small Brazilian indie game studio focused on building digital games wit
 <a href="https://www.youtube.com/@techstrikebrasil">
   <img align="center" src="https://img.shields.io/badge/Youtube-fdfdfd?style=for-the-badge&logo=youtube&logoColor=red" />
 </a>
-<a href="https://github.com/TechStrikeBrasil">
+<a href="https://play.google.com/store/apps/dev?id=6724140858606815242">
   <img align="center" src="https://img.shields.io/badge/PlayStore-fdfdfd?style=for-the-badge&logo=googleplay&logoColor=black" />
 </a>
 <a href="https://github.com/TechStrikeBrasil">
