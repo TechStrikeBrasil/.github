@@ -15,7 +15,7 @@ We are a small Brazilian indie game studio focused on building digital games wit
 ---
 
 ## 🎮 Nossos Jogos / Our Games
-- [Verdant Valley](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley) – Jogo de fazenda com alma nostálgica de Harverst Moon: Back to Nature *(pré-inscrição)*
+- [Verdant Valley](https://play.google.com/store/apps/details?id=com.techstrikebrasil.verdantvalley) – Jogo de fazenda com alma nostálgica de Harverst Moon: Back to Nature.
 - **HexPG** – RPG tático com mapa em hexágonos e campanha procedural *(em desenvolvimento)*
 
 ---
