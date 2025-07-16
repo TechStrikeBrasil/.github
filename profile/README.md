@@ -36,7 +36,7 @@ Download, play, and share our games!
 <a href="https://tstrikebrasil.itch.io/">
   <img align="center" src="https://img.shields.io/badge/Itch.IO-ff6160?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@techstrikebrasil">
+<a href="https://www.youtube.com/@techstrikegamestudio">
   <img align="center" src="https://img.shields.io/badge/Youtube-fdfdfd?style=for-the-badge&logo=youtube&logoColor=red" />
 </a>
 <a href="https://play.google.com/store/apps/dev?id=6724140858606815242">
